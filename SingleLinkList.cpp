@@ -35,6 +35,7 @@ void display (node *hNode)
         cout<<ptr->data<<endl;
         ptr =ptr->next;
     }
+   cout<<ptr->data<<endl;
 }
 
 void insert(node *hNode , int insertat, node *nodetoinsert)
