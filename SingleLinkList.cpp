@@ -38,42 +38,44 @@ void display (node *hNode)
 
 void insert(node *hNode , int insertat, node *nodetoinsert)
 {
+    node *ptr =hNode;
     for (int i=0; i<insertat ;i++)
     {
 
         while(i != insertat-1)
         {
-            hNode =hNode->next;
+            ptr =ptr->next;
             i++;
 
         }
 
-        nodetoinsert->next =hNode->next;
-        hNode->next = nodetoinsert;
+        nodetoinsert->next =ptr->next;
+        ptr->next = nodetoinsert;
 
     }
 }
 
 void delnode(node *hNode , int delLoc)
 {
+    node *ptr =hNode;
     int i =0;
     while(i != delLoc-1)
     {
 
-        hNode =  hNode->next;
+        ptr =  ptr->next;
         i++;
     }
-    node *temp =hNode->next;
-    hNode->next =hNode->next->next;
+    node *temp =ptr->next;
+    ptr->next =ptr->next->next;
     delete(temp);
 }
 
 
 int main()
 {
-   node *n1= new node(10);
+   node *head= new node(10);
    node *n2= new node(11);
-   n1->next = n2;
+   head->next = n2;
    node *n3= new node(12);
    n2->next = n3;
    node *n4= new node(13);
@@ -82,14 +84,14 @@ int main()
    n4->next =n5;
    n5->next = NULL;
    cout <<"display before insertion"<<endl;
-   display(n1);
+   display(head);
    node *nodetoinsert= new node(90);
-   insert(n1,2,nodetoinsert);
+   insert(head,2,nodetoinsert);
    cout <<"display after insertion"<<endl;
-   display(n1);
+   display(head);
 
-   delnode(n1,2);
+   delnode(head,2);
    cout<<"After Deletion"<<endl;
-   display(n1);
+   display(head);
     return 0;
 }
