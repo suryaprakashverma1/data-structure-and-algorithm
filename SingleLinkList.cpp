@@ -29,10 +29,11 @@ class node
 
 void display (node *hNode)
 {
-    while((hNode->next) !=NULL)
+    node *ptr =hNode;
+    while((ptr->next) !=NULL)
     {
-        cout<<hNode->data<<endl;
-        hNode =hNode->next;
+        cout<<ptr->data<<endl;
+        ptr =ptr->next;
     }
 }
 
