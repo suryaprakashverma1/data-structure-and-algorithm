@@ -9,7 +9,7 @@ using namespace std;
 Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
-
+//time complexity is O(N^2)
 #include <iostream>
 
 using namespace std;
