@@ -9,7 +9,7 @@ using namespace std;
 Write your code in this editor and press "Run" button to compile and execute it.
 
 *******************************************************************************/
-//time complexity is O(N^2)
+//time complexity is O(N^2) and it is an in place sorting
 #include <iostream>
 
 using namespace std;
