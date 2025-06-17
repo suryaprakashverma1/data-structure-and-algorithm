@@ -8,5 +8,5 @@ core dumped:
 nice visuals for computer science videos.
 
 system design:
-https://www.youtube.com/watch?v=s9Qh9fWeOAk&ab_channel=AshishPratapSingh
+https://www.youtube.com/watch?v=s9Qh9fWeOAk&ab_channel=AshishPratapSingh,
 https://blog.algomaster.io/
