@@ -10,3 +10,6 @@ nice visuals for computer science videos.
 system design:
 1. https://www.youtube.com/watch?v=s9Qh9fWeOAk&ab_channel=AshishPratapSingh
 2. https://blog.algomaster.io/
+
+Problem solving with known algos:
+https://www.youtube.com/watch?v=RYT08CaYq6A&ab_channel=AlgoMonster 
