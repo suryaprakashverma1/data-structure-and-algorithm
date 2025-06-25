@@ -1,5 +1,7 @@
 Algo course by Abdul bari
 https://www.youtube.com/watch?v=1U3Uwct45IY&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=5&ab_channel=AbdulBari
+![image](https://github.com/user-attachments/assets/ecb22bbd-cee8-4021-934e-875bb8cdf1e6)
+
 
 knowledge gate: all compputer course
 Sanchit sir
