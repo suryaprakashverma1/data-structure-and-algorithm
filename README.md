@@ -1,15 +1,6 @@
 Algo course by Abdul bari
 https://www.youtube.com/watch?v=1U3Uwct45IY&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=5&ab_channel=AbdulBari
 
-![image](https://github.com/user-attachments/assets/ecb22bbd-cee8-4021-934e-875bb8cdf1e6)
-
-![WhatsApp Image 2025-06-29 at 11 07 33_6c406d1d](https://github.com/user-attachments/assets/b922028e-cee9-40fe-9484-d74bb0ac92bb)
-
-![WhatsApp Image 2025-06-29 at 11 35 53_397440c4](https://github.com/user-attachments/assets/68ccd5ed-4b62-418a-a81f-4154fe46d56d)
-
-
-
-
 
 knowledge gate: all compputer course
 Sanchit sir
@@ -23,3 +14,15 @@ system design:
 
 Problem solving with known algos:
 https://www.youtube.com/watch?v=RYT08CaYq6A&ab_channel=AlgoMonster 
+
+![image](https://github.com/user-attachments/assets/ecb22bbd-cee8-4021-934e-875bb8cdf1e6)
+
+![WhatsApp Image 2025-06-29 at 11 07 33_6c406d1d](https://github.com/user-attachments/assets/b922028e-cee9-40fe-9484-d74bb0ac92bb)
+
+![WhatsApp Image 2025-06-29 at 11 35 53_397440c4](https://github.com/user-attachments/assets/68ccd5ed-4b62-418a-a81f-4154fe46d56d)
+
+
+
+
+
+
