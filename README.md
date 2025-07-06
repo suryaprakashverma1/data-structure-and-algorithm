@@ -25,6 +25,7 @@ https://www.youtube.com/watch?v=RYT08CaYq6A&ab_channel=AlgoMonster
 
 Tree:
 ![image](https://github.com/user-attachments/assets/dae74a34-babf-45ba-ac60-da1c11292cdc)
+we can also fill it level by level but in that case we need to keep the blanks, as shown in the last examples.
 
 
 
