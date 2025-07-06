@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=RYT08CaYq6A&ab_channel=AlgoMonster
 
 
 
+Tree:
+![image](https://github.com/user-attachments/assets/dae74a34-babf-45ba-ac60-da1c11292cdc)
 
 
 
